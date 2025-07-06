@@ -1,0 +1,31 @@
+body {
+	background-color: white;
+	color: black;
+	font-family: monospace;
+}
+
+.titulo {
+	color: red;
+	text-align: center;
+	font-style: italic;
+	text-decoration: underline;
+}
+.excelente {
+	color: green;
+}
+
+.bueno {
+	color: blue;
+}
+
+.Indiferente {
+	color: yellow;
+}
+
+.mal {
+	color: orange;
+}
+
+.horrible {
+	color: red;
+}
